@@ -1,0 +1,141 @@
+
+p {
+	color: #838383;
+	font-size: 17px;
+	font-family: "Helvetica", sans-serif;
+	font-weight: lighter; 
+	line-height: 1.5;
+ 	text-indent: 25px;
+ 	text-align: justify;
+  	text-justify: inter-word; 
+
+}
+
+#websiteTitle{
+	color:#a3b1e3;
+	font-size: 40px;
+	font-family: "Didot", serif;
+	font-weight: bold; 
+	margin: 50px;
+	padding: 30px;
+	border-bottom-style:solid;
+  	border-bottom-color: #a3b1e3;
+	
+
+}
+
+.list {
+	color: #838383;
+	font-size: 17px;
+	font-family: "Helvetica", sans-serif;
+	font-weight: lighter; 
+	line-height: 1.5;
+ 	text-align: justify;
+  	text-justify: inter-word;
+  	
+
+}
+.project, .courses {
+	color: #838383;
+	font-size: 17px;
+	font-family: "Helvetica", sans-serif;
+	font-weight: lighter; 
+	line-height: 1.5;
+ 	text-align: justify;
+  	text-justify: inter-word;
+  	margin: 30px;  
+  	paddiing-top: 20px;
+  	border-top-style: dotted;
+  	
+
+}
+
+
+
+ .footer {
+	color: #838383;
+	font-size: 17px;
+	font-family: "Helvetica", sans-serif;
+	font-weight: lighter; 
+	line-height: 1.5;
+ 	text-align: justify;
+  	text-justify: inter-word;
+  	margin-top: 40px; 
+  	padding-top: 20px;
+  	border-top-style:solid;
+  	border-top-color: #a3b1e3;
+
+}
+
+
+#pageName {
+	text-decoration-color:#a3b1e3;
+	color:#b8c7ff;
+	text-decoration-line: underline;
+	font-size: 30px;
+	font-family: "Didot", serif;
+	line-height: 1.5;
+	align-content: center;
+	margin-left: 10px;
+	margin-bottom: 40px;
+	text-align: center;
+
+
+}
+.sectionHeading{
+	
+	color:#b8c7ff;
+	font-size: 20px;
+	font-family: "Didot", serif;
+
+}
+
+.sectionHeading{
+	
+	color:#b8c7ff;
+	font-size: 20px;
+	font-family: "Didot", serif;
+
+}
+
+.projectTitle{
+	
+	color:#b8c7ff;
+	font-size: 20px;
+	font-family: "Didot", serif;
+
+}
+
+#img {
+	text-align: center;
+	height: 20em; 
+	width: 95%;
+
+}
+#profile {
+	text-align: center;
+	height: 12em; 
+	width: 95%;
+
+}
+#courseImg {
+	text-align: center;
+	height: 15em; 
+	width: 95%;
+
+}
+
+figcaption{
+color: #838383;
+	font-size: 12px;
+	font-family: "Helvetica", sans-serif;
+	font-weight: lighter; 
+	line-height: 1.5;
+
+
+
+}
+
+
+
+
