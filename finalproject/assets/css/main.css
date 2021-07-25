@@ -35,8 +35,13 @@ body {
 
 ol, ul {
 	list-style: none;
+	
 }
-
+ul.removeBullets {
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
+}
 blockquote, q {
 	quotes: none;
 }
@@ -113,7 +118,7 @@ input, select, textarea {
 			transition: none !important;
 		}
 
-/* Type: edit the text area!!!!💜 */
+/* Type: edit the text area */
 
 	body, input, select, textarea {
 		color: #e4e6e3;
@@ -3122,7 +3127,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #aa8e70;
+		background-color: #7d5937;
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
 		cursor: default;
 		font-weight: 600;
@@ -3160,7 +3165,7 @@ input, select, textarea {
 				padding: 0 0.125em 0 0.375em;
 			}
 
-/*forty logo💜*/
+/*forty logo*/
 			#header .logo:hover strong {
 				background-color:#dcc2a9;
 			}
@@ -3503,7 +3508,7 @@ input, select, textarea {
 		#banner.style1:after {
 			background-color: #6fc3df;
 		}
-		/*banner on the tops of each site💜*/
+		/*banner on the tops of each site*/
 
 		#banner.style2:after {
 			background-color: #634023;
@@ -3597,7 +3602,7 @@ input, select, textarea {
 
 		}
 
-/* Main that bottum part on index above contact💜 */
+/* Main that bottum part on index above contact */
 
 	#main {
 		background-color: #634023;
